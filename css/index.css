@@ -18,9 +18,7 @@ body {
   text-decoration: none;
   color: #2e2f42;
 }
-.header-list-first {
-  list-style: none;
-}
+
 .list-item-studio {
   font-weight: 500;
   font-size: 16px;
@@ -28,4 +26,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #2e2f42;
+}
+.list {
+  list-style: none;
 }
