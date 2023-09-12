@@ -21,3 +21,11 @@ body {
 .header-list-first {
   list-style: none;
 }
+.list-item-studio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
