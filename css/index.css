@@ -27,6 +27,9 @@ body {
   text-transform: uppercase;
   color: #2e2f42;
 }
+.list-item-studio:hover {
+  color: #404bbf;
+}
 .list {
   list-style: none;
 }
