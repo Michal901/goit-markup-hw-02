@@ -18,6 +18,9 @@ body {
   text-decoration: none;
   color: #2e2f42;
 }
+.list {
+  list-style: none;
+}
 
 .list-item-studio {
   font-weight: 500;
@@ -29,7 +32,4 @@ body {
 }
 .list-item-studio:hover {
   color: #404bbf;
-}
-.list {
-  list-style: none;
 }
