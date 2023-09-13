@@ -39,3 +39,14 @@ a.hover-menu-fst:active {
 .address-header {
   font-style: normal;
 }
+.hover-menu-sec {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+a.hover-menu-sec:hover {
+  color: #404bbf;
+}
+a.hover-menu-sec:active {
+  color: #404bbf;
+}
