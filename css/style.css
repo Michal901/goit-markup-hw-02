@@ -33,7 +33,7 @@ body {
 a.hover-menu-fst:hover {
   color: #404bbf;
 }
-a.hover-menu-fst:active {
+a.hover-menu-fst:focus {
   color: #404bbf;
 }
 .address-header {
@@ -47,6 +47,6 @@ a.hover-menu-fst:active {
 a.hover-menu-sec:hover {
   color: #404bbf;
 }
-a.hover-menu-sec:active {
+a.hover-menu-sec:focus {
   color: #404bbf;
 }
