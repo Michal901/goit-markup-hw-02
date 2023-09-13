@@ -22,7 +22,7 @@ body {
   list-style: none;
 }
 
-.list-item-studio {
+.li-header-first {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -30,7 +30,12 @@ body {
   text-transform: uppercase;
   color: #2e2f42;
 }
-.list-item-studio:hover {
-  color: #c3c6eb;
-  text-decoration: underline;
+a.hover-menu-fst:hover {
+  color: #404bbf;
+}
+a.hover-menu-fst:active {
+  color: #404bbf;
+}
+.address-header {
+  font-style: normal;
 }
