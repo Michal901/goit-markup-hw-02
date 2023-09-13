@@ -30,6 +30,7 @@ body {
   text-transform: uppercase;
   color: #2e2f42;
 }
-.lsta:hover {
-  color: #404bbf;
+.list-item-studio:hover {
+  color: #c3c6eb;
+  text-decoration: underline;
 }
