@@ -53,3 +53,13 @@ a.hover-menu-sec:hover {
 a.hover-menu-sec:focus {
   color: #404bbf;
 }
+.first-section {
+  background-color: #2e2f42;
+}
+.h-one {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
