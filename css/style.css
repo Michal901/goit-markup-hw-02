@@ -71,6 +71,7 @@ a.hover-menu-sec:focus {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
 .first-section-button:hover {
   background-color: #404bbf;
