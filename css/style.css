@@ -38,6 +38,9 @@ body {
   text-transform: uppercase;
   color: var(--custom-link-color);
 }
+a.hover-menu-fst {
+  color: var(--custom-link-color);
+}
 a.hover-menu-fst:hover {
   color: var(--button-menu-color);
 }
@@ -159,7 +162,7 @@ a.hover-menu-sec:focus {
 }
 .first-button-portfo:focus {
   color: var(--background-color);
-  background-color: var(-button-menu-color);
+  background-color: var(--button-menu-color);
 }
 .portfo-sec-list-h {
   font-weight: 500;
